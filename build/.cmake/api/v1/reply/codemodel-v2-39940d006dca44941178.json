@@ -1,0 +1,552 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lecture_5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-428e5d146bb46c87aabc.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest1-Debug-cf4e277af0a495316a85.json",
+					"name" : "DistributedCounterTest1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest2-Debug-2d20fd17f67464de81ef.json",
+					"name" : "DistributedCounterTest2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest3-Debug-bd69443471f04b99443d.json",
+					"name" : "DistributedCounterTest3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ForEach::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ForEach-Debug-f6cc2a7823cbf3b15d31.json",
+					"name" : "ForEach",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloThreads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloThreads-Debug-4a35f94fbebd8aeef3e7.json",
+					"name" : "HelloThreads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Matrix-Debug-b6d16e8b9db930437f41.json",
+					"name" : "Matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OverloadMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OverloadMatrix-Debug-fbc7b121480bf5a2fe38.json",
+					"name" : "OverloadMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PSMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PSMatrix-Debug-6217503817ad9e91ce0c.json",
+					"name" : "PSMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-4cf9359b6b535d57650d.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hm3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hm3-Debug-277f090d279d3965a605.json",
+					"name" : "hm3",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lecture_5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-428e5d146bb46c87aabc.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest1-Release-40ffb95d756a4eda10da.json",
+					"name" : "DistributedCounterTest1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest2-Release-c7af339ed254f72ff5aa.json",
+					"name" : "DistributedCounterTest2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest3-Release-e7754bdf2c60214a8727.json",
+					"name" : "DistributedCounterTest3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ForEach::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ForEach-Release-affc410f751876ce9bc9.json",
+					"name" : "ForEach",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloThreads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloThreads-Release-bd18a6607354149d6440.json",
+					"name" : "HelloThreads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Matrix-Release-685e03b6cd7209e1d882.json",
+					"name" : "Matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OverloadMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OverloadMatrix-Release-0f9ec0269038a223a83a.json",
+					"name" : "OverloadMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PSMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PSMatrix-Release-b5034f09aa2305d6c7c2.json",
+					"name" : "PSMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-4cf9359b6b535d57650d.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hm3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hm3-Release-616cdb3c58066a9f974e.json",
+					"name" : "hm3",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lecture_5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-428e5d146bb46c87aabc.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest1-MinSizeRel-aa0828991220d5895136.json",
+					"name" : "DistributedCounterTest1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest2-MinSizeRel-36410a8dd4ebdb08ece3.json",
+					"name" : "DistributedCounterTest2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest3-MinSizeRel-74bb6862c98c878f97f5.json",
+					"name" : "DistributedCounterTest3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ForEach::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ForEach-MinSizeRel-ade21b4250c0d090dcf9.json",
+					"name" : "ForEach",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloThreads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloThreads-MinSizeRel-5fa69d5fd7307577c973.json",
+					"name" : "HelloThreads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Matrix-MinSizeRel-e4e5743248d3daec29b1.json",
+					"name" : "Matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OverloadMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OverloadMatrix-MinSizeRel-52645bcaf6d7d79bddc0.json",
+					"name" : "OverloadMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PSMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PSMatrix-MinSizeRel-f85aa812925bc00a13e0.json",
+					"name" : "PSMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-4cf9359b6b535d57650d.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hm3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hm3-MinSizeRel-b7c21034285b67e1f7e3.json",
+					"name" : "hm3",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lecture_5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-428e5d146bb46c87aabc.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest1-RelWithDebInfo-f7095a11de35dae8f460.json",
+					"name" : "DistributedCounterTest1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest2-RelWithDebInfo-98b169c5ca24984426a8.json",
+					"name" : "DistributedCounterTest2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistributedCounterTest3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistributedCounterTest3-RelWithDebInfo-225061ac872d15308176.json",
+					"name" : "DistributedCounterTest3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ForEach::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ForEach-RelWithDebInfo-a8de943aca7bb3b96366.json",
+					"name" : "ForEach",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloThreads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloThreads-RelWithDebInfo-e70e731be164e71b3d81.json",
+					"name" : "HelloThreads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Matrix-RelWithDebInfo-37f5c8bb1eb42843eae7.json",
+					"name" : "Matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OverloadMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OverloadMatrix-RelWithDebInfo-461d6a87c9ef05004cb5.json",
+					"name" : "OverloadMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PSMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PSMatrix-RelWithDebInfo-9b51b888f3e631de995f.json",
+					"name" : "PSMatrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-4cf9359b6b535d57650d.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hm3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hm3-RelWithDebInfo-2582004678c723e6e93e.json",
+					"name" : "hm3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/acha/source/repos/W5-CPP/build",
+		"source" : "C:/Users/acha/source/repos/W5-CPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

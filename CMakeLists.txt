@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.10)
+project(Lecture_5 CXX)
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Matrix Matrix.cpp)
+add_executable(OverloadMatrix OverloadMatrix.cpp)
+add_executable(PSMatrix PSMatrix.cpp)
+add_executable(ForEach for_each.cpp)
+add_executable(HelloThreads HelloThreads.cpp)
+add_executable(DistributedCounterTest1 DistributedCounterTest1.cpp)
+add_executable(DistributedCounterTest2 DistributedCounterTest2.cpp)
+add_executable(DistributedCounterTest3 DistributedCounterTest3.cpp)
+add_executable(hm3 hw3.cpp)
